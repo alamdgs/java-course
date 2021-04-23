@@ -1,1 +1,5 @@
 custom_order.class
+
+javac custom_order.java
+
+java custom_order
